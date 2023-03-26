@@ -2,3 +2,5 @@
 data
 db_project/identifier.sqlite
 catboost_info/
+data_joined/factory_move_joined.csv
+data_joined/factory_out_joined.csv
