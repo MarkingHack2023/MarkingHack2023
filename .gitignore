@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 data
 db_project/identifier.sqlite
+catboost_info/
